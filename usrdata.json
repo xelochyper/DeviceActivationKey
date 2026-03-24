@@ -34,5 +34,11 @@
         "key": "ITC-yG15Sut",
         "expirydate": "06-08-2030",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "0c5d78c680ff1ea7",
+        "key": "xelo",
+        "expirydate": "06-08-2030",
+        "Allowoffline": false
+    },
 ]
