@@ -52,5 +52,11 @@
         "key": "ITC-cRKSGxo",
         "expirydate": "06-08-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ba2fc785145613a",
+        "key": "ITC-HcPyeT8",
+        "expirydate": "06-08-2030",
+        "Allowoffline": false
     }
 ]
