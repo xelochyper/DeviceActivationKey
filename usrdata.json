@@ -3,7 +3,7 @@
         "device_id": "eebd2980c61892ec",
         "key": "maino84",
         "expirydate": "06-08-2030",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
