@@ -64,5 +64,11 @@
         "key": "dede",
         "expirydate": "06-08-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "78815078d6457296",
+        "key": "maino115",
+        "expirydate": "06-08-2030",
+        "Allowoffline": false
     }
 ]
