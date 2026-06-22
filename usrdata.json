@@ -76,5 +76,11 @@
         "key": "maino176",
         "expirydate": "22-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "35085f3b4156158c",
+        "key": "maino55",
+        "expirydate": "24-06-2026",
+        "Allowoffline": false
     }
 ]
