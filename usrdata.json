@@ -89,6 +89,12 @@
         "expirydate": "25-09-2030",
         "Allowoffline": false
     },
+     {
+        "device_id": "ba7519b541f1a0d7",
+        "key": "123456",
+        "expirydate": "25-09-2030",
+        "Allowoffline": false
+    },
     {
         "device_id": "290ae5eb58891a4b",
         "key": "xelo1",
