@@ -94,5 +94,11 @@
         "key": "maino179",
         "expirydate": "25-09-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7uhgff7e3ec5180ed",
+        "key": "maino180",
+        "expirydate": "25-09-2030",
+        "Allowoffline": false
     }
 ]
